@@ -43,10 +43,6 @@ This project is a web application that leverages machine learning and deep learn
 - Sonner
 - React-webcam
 
-## Contributing
-
-Contributions are welcome! Please follow the [contribution guidelines](CONTRIBUTING.md).
-
 ## Acknowledgments
 
 - Special thanks to the creators of TensorFlow.js and COCO-SSD for their powerful tools.

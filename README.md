@@ -1,5 +1,7 @@
 # WATCHYOU-AI
 
+![Screenshot 2024-01-19 230119](https://github.com/Saunakghosh10/watchyou-ai/assets/76943154/ccdb85e1-6540-4a21-b561-3e76c1efb6af)
+
 ## Overview
 
 This project is a web application that leverages machine learning and deep learning algorithms for real-time object detection using the COCO-SSD model from TensorFlow.js. The application allows users to interact with their webcam, capture snapshots, record videos, and toggle various settings.

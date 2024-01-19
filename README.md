@@ -36,6 +36,7 @@ This project is a web application that leverages machine learning and deep learn
 ## Dependencies
 
 - React
+- ShadCN
 - TensorFlow.js
 - COCO-SSD
 - Lucide-react
